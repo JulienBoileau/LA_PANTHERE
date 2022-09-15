@@ -813,13 +813,14 @@ color: rgba(255, 255, 255, .6);
     color: #FFFFFF!important;
 }
 
-.tc-white {
-    color: #F3976C!important;
+.texte-end {
+    color: #FFFFFF!important;
     font-size: 21px;
 }
 
-.texte-end {
-    color: white!important;
+.tc-white {
+    color: #F3976C!important;
+    font-size: 21px;
 }
 
 .btn-atomic-tangerine {
