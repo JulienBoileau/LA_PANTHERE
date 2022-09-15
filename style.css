@@ -818,6 +818,10 @@ color: rgba(255, 255, 255, .6);
     font-size: 21px;
 }
 
+.texte-end {
+    color: white!important;
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
